@@ -1,5 +1,5 @@
 # Convert from mp4 to GIF
-Convert a video to gif, specified by size and frames per second
+Convert a video to gif with specified scaling of size and frames per second
 ```bash
 export FILE_IN=output1.mp4
 ffmpeg -i $FILE_IN \
